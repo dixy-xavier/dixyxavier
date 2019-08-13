@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+}
+
+.pageWrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.portfolioWrapper {
+
+}
+
+.headerWrapper {
+  padding: 50px 50px 20px 50px;
+  background-color: #2E3B4C;
+}
+
+.nameWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  color: #FFFFFF;
+  font-size: 70px;
+}
+
+.positionWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.line {
+  border: 1px solid #A19857;
+  width: 30%;
+}
+
+.position {
+  color: #A19857;
+  font-size: 20px;
+}
+
+.contactWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #FFFFFF;
+}
+
+.placeWrapper {
+  border-right: 1px solid #A19857;
+}
+
+.phoneWrapper {
+  border-right: 1px solid #A19857;
+}
+
+.containerWrapper {
+  padding: 20px 50px;
+}
